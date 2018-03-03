@@ -5,5 +5,5 @@ A test of three.js, loading a model of a tablet or cellphone from blender to the
 Run with:
 
 ```
-npm run build
+npm run start
 ```
